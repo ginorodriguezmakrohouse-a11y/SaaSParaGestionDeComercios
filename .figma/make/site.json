@@ -1,0 +1,11 @@
+{
+  "title": "SaaS_Whatsapp_Ventas",
+  "description": "Manage product catalogs and sales through WhatsApp for small to medium businesses with real-time inventory control and customizable messaging.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
